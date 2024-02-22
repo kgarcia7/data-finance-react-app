@@ -9,4 +9,6 @@ Link to deployed app: https://data-finance-reactapp.netlify.app/
 
 ## Screenshot
 
-<img width="1294" alt="Screenshot 2024-02-18 at 4 29 49 PM" src="https://github.com/kgarcia7/data-finance-react-app/assets/141987295/ba9af708-9078-43a9-a048-4307a41837e7">
+![Screenshot 2024-02-22 at 9 37 44 AM](https://github.com/kgarcia7/data-finance-react-app/assets/141987295/4546bc23-509b-46b3-bc69-d736be4d7472)
+
+![Screenshot 2024-02-22 at 9 38 11 AM](https://github.com/kgarcia7/data-finance-react-app/assets/141987295/b7eb4413-c57d-4e87-a58d-d627ad5cd546)
